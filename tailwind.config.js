@@ -5,10 +5,6 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    screens: {
-      sm: '375px',
-      xl: '1440px',
-    },
     colors: {
       'Light Cyan': 'hsl(193, 38%, 86%)',
       'Neon Green': 'hsl(150, 100%, 66%)',

@@ -3,15 +3,23 @@
 @tailwind utilities;
 
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
+  font-family: Manrope, sans-serif;
   font-weight: 400;
+
+  background-color: hsl(218, 23%, 16%);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+
+  --color-primary: hsl(193, 38%, 86%);
+  --color-primary-fade: hsla(193, 38%, 86%, 0.25);
+  --color-secondary: hsl(150, 100%, 66%);
+  --color-Grayish-Blue: hsl(217, 19%, 38%);
+  --color-Dark-Grayish-Blue: hsl(217, 19%, 24%);
+  --color-Dark-Blue: hsl(218, 23%, 16%);
 }
 
 
