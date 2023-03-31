@@ -27,9 +27,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./advice_generator/src/assets/images/desktop.png)
-![Desktop button hover](./advice_generator/src/assets/images/desktop_hover.png)
-![Mobile](./advice_generator/src/assets/images/mobile.png)
+![Desktop](src/assets/images/desktop.png)
+![Desktop button hover](src/assets/images/desktop_hover.png)
+![Mobile](src/assets/images/mobile.png)
 
 
 ### Links
